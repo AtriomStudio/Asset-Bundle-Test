@@ -1,5 +1,5 @@
-Remote level catalog revision: 4
-Bridge player content version: 0.2.1
+Remote level catalog revision: 8
+Bridge player content version: 0.2.7
 
 1. Keep every previously uploaded bundle on the server.
 2. Upload new or changed bundle files first.
