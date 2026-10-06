@@ -1,0 +1,42 @@
+{
+    "schema": 1,
+    "channels": [
+        {
+            "name": "production",
+            "playerVersion": "0.2.9",
+            "current": "20261006-194451",
+            "history": [],
+            "updatedUtc": "2026-10-06T19:45:38.6793627Z"
+        }
+    ],
+    "releases": [
+        {
+            "id": "20261006-194451",
+            "kind": "full",
+            "baseId": "",
+            "playerVersion": "0.2.9",
+            "catalog": [
+                "catalog_0.2.9.bin",
+                "catalog_0.2.9.hash"
+            ],
+            "publishedUtc": "2026-10-06T19:45:38.6783779Z"
+        }
+    ],
+    "files": [
+        "catalogs/20261006-194451/Android/catalog_0.2.9.bin",
+        "catalogs/20261006-194451/Android/catalog_0.2.9.hash",
+        "objects/Android/campaign_catalog_assets_all_9876349b6cc09d13e6b6eab3b6feec5d.bundle",
+        "objects/Android/levels_pack_001_assets_all_247979173e46066a939edd84eeb0467f.bundle",
+        "objects/Android/levels_pack_002_assets_all_5347cdb996cb1c05a45b8aea5ec7e223.bundle",
+        "objects/Android/levels_pack_003_assets_all_e3d328ef5265ff3e5c73e277de0aaf4d.bundle",
+        "objects/Android/levels_pack_004_assets_all_5f6fe77187b1be73abfac8d0fcb6f2d5.bundle",
+        "objects/Android/levels_pack_005_assets_all_4359398a4c84e1a2e18f102e9cdd9d84.bundle",
+        "objects/Android/levels_pack_006_assets_all_c7534203252a5138ae61c6b6f63f8275.bundle",
+        "objects/Android/levels_pack_007_assets_all_580b84016af4f8a242c34dbde15e8176.bundle",
+        "objects/Android/levels_pack_008_assets_all_f440b0d013d657f9747b5cf5a0d708f3.bundle",
+        "objects/Android/levels_pack_009_assets_all_c907d79be789dc835369a8f33ff0e053.bundle",
+        "objects/Android/levels_pack_010_assets_all_6eea501b962ccc3749b3ba42c54cad13.bundle",
+        "objects/Android/levels_pack_011_assets_all_6cdd01abfaa9f8a356585d4351a1364d.bundle",
+        "objects/Android/levels_pack_012_assets_all_94108dc52cfd9936e51909c931720648.bundle"
+    ]
+}
